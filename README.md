@@ -42,7 +42,7 @@ gcc -o ufo.exe ufo.c -Lc:\MinGW\include\SDL  -lmingw32 -lSDLmain -lSDL -lSDL_mix
 
 Run binary
 ------------
-Download src and data folders. Extract data.zip
+Download src and data folders. Extract data.zip (to get data/images and data/sounds).
 
 Execute in Windows:   
 double-click ufo.exe
