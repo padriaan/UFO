@@ -3,8 +3,8 @@ Remake of Odyssey 2 UFO / Videopac Satellite Attack
 ===========================================================
 
 Remake of Philips Videopac    34 Satellite Attack
-          Magnavox Osyssey 2  34 UFO!
-          Originally released in 1981, programmed by Ed Averett.
+Magnavox Osyssey 2  34 UFO!
+Originally released in 1981, programmed by Ed Averett.
 
 ![VIDEOPAC34](https://github.com/user-attachments/assets/e59e81c8-26ad-4f07-9313-3080747de6ce)        ![ufo](https://github.com/user-attachments/assets/af2c81f1-2e0d-4c71-8937-58eef53f6a42)
 
