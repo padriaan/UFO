@@ -48,6 +48,6 @@ Execute in Windows:
 double-click ufo.exe
 
 Execute in Linux:   
-$ export LD_LIBRARY_PATH=<folder where ufo/linux_libs is located>  
+$ export LD_LIBRARY_PATH=<folder where ufo/src/linux_libs is located>  
 $ cd src  
 $ ./ufo   
