@@ -1,5 +1,5 @@
 # UFO
-Remake of Odyssey 2 UFO / Philips Videopac Satellite Attack
+Remake of Odyssey 2 UFO / Videopac Satellite Attack
 ===========================================================
 
 Remake of Philips Videopac    34 Satellite Attack
@@ -32,3 +32,9 @@ $ gcc -o ufo ufo.c -I/usr/include/SDL -lSDLmain -lSDL -lSDL_mixer -lSDL_ttf -lm
 Windows (using MinGW):
 gcc -o ufo.exe ufo.c -Lc:\MinGW\include\SDL  -lmingw32 -lSDLmain -lSDL -lSDL_mixer -lSDL_ttf
 
+Execute in Windows: 
+- double-click ufo.exe
+
+Execute in Linux: 
+$ export LD_LIBRARY_PATH=<folder where ufo/linux_libs is located>
+$ ./ufo 
