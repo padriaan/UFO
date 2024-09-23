@@ -23,11 +23,12 @@ Created by Peter Adriaanse july 2024.
 
 Press 1, 2 or 3 to start game.
 
-Controls: Joystick or cursor keys + Ctrl for fire.  
-          Use Keypad - and Keypad + or [ and ] or 9 and 0 to change  
-          windows size. Use 8 to toggle full-screen on/off.  
-          Esc to quit from game. Esc in start-screen to quit all.  
-          Character keys for entering high score name. Return to complete.  
+Controls:  
+- Joystick or cursor keys + Ctrl for fire.  
+- Use Keypad - and Keypad + or [ and ] or 9 and 0 to change windows size.  
+- Use 8 to toggle full-screen on/off.  
+- Esc to quit from game. Esc in start-screen to quit all.  
+- Character keys for entering high score name. Return to complete.  
 
 Compile and link from source
 -----------------------------
@@ -44,7 +45,7 @@ Run binary
 Download src and data folders. Extract data.zip
 
 Execute in Windows:   
-- double-click ufo.exe
+double-click ufo.exe
 
 Execute in Linux:   
 $ export LD_LIBRARY_PATH=<folder where ufo/linux_libs is located>  
