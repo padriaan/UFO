@@ -1,3 +1,5 @@
+Unzip data.zip in data folder
+
 Windows
 -------
 Run the ufo.exe (is an 32 bits executable)
