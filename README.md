@@ -28,7 +28,11 @@ Controls:
 - Use Keypad - and Keypad + or [ and ] or 9 and 0 to change windows size.  
 - Use 8 to toggle full-screen on/off.  
 - Esc to quit from game. Esc in start-screen to quit all.  
-- Character keys for entering high score name. Return to complete.  
+- Character keys for entering high score name. Return to complete.
+
+![game1](https://github.com/user-attachments/assets/556e0f5d-a472-4883-93a8-048692ff08f6)  ![game2](https://github.com/user-attachments/assets/76f38430-60d0-44a6-b49a-44ea599d2d79)
+
+
 
 Compile and link from source
 -----------------------------
@@ -50,4 +54,5 @@ double-click ufo.exe
 Execute in Linux:   
 $ export LD_LIBRARY_PATH=<folder where ufo/src/linux_libs is located>  
 $ cd src  
+$ chmod 644 ufo
 $ ./ufo   
