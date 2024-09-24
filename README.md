@@ -54,5 +54,5 @@ double-click ufo.exe
 Execute in Linux:   
 $ export LD_LIBRARY_PATH=<folder where ufo/src/linux_libs is located>  
 $ cd src  
-$ chmod 644 ufo
+$ chmod 644 ufo  
 $ ./ufo   
